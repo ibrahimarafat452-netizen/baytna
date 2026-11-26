@@ -1,0 +1,6 @@
+{
+  "name": "بيتنا",
+  "description": "مساحة رقمية خاصة بالبيت تقرّب الأب الغائب من أولاده بأقل مجهود",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
